@@ -13,7 +13,7 @@ public class SearchSelenide {
 //        Configuration.browser = "firefox";
         Configuration.baseUrl = "https://github.com";
         Configuration.pageLoadStrategy = "eager";
-        Configuration.holdBrowserOpen = true;
+//        Configuration.holdBrowserOpen = true;
 
     }
 
